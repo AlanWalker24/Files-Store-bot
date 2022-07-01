@@ -1,6 +1,6 @@
 # Files-Store-bot<p align="center">
 
-  <img src="assets/logo.png" alt="Ajax-Extra-FeaturesLogo">
+  <img src="assets/logo.png" alt="AlanWalker-Extra-FeaturesLogo">
 
 </p>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
 
-<a href="https://t.me/Aadhi011"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
+<a href="https//t.me/AlanWalker_24"><img alt="Telegram" src="https://img.shields.io/badge/AlanWalker-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 
 </p>
 
