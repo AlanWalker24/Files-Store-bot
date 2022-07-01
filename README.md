@@ -140,6 +140,6 @@ python3 main.py
 
 ## Support   
 
-Join Our [Telegram Group](https://www.telegram.dog/OpusTechz) For Support/Assistance And Our [Channel](https://www.telegram.dog/OpusTechz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/Netfliix_Series) For Support/Assistance And Our [Channel](https://www.telegram.dog/CiNEPLIX_1) For Updates.   
 
    
