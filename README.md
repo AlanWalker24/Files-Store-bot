@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<a href=https://youtu.be/kB9TkCs8cX0><img align="center" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a href=https://youtu.be/kB9TkCs8cX0>)
 
 
 
