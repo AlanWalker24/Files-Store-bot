@@ -64,7 +64,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ````bash
 
-git clone https://github.com/Aadhi000/OP-Files-Store-Bot
+git clone https://github.com/AlanWalker24/Files-Store-bot
 
 cd File-Sharing-Bot
 
