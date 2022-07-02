@@ -1,4 +1,4 @@
-# Files-Store-bot<p align="center">
+# Files-Store-bot <p align="center">
 
   <img src="assets/logo.png" alt="AlanWalker-Extra-FeaturesLogo">
 
